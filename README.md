@@ -9,6 +9,8 @@ The tools used are:
 - GraphQL
 - Apollo Client
 
+According to the challenge description `Pizza pricing can be quite volatile`, then a `network-only` policy is used to request the pizza information. This ensures that every time we request the information, it will be the latest.
+
 ## Instructions
 
 1. Clone the repo `git clone https://github.com/alelr36/waldo-demo.git`
