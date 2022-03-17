@@ -1,0 +1,8 @@
+.pizza {
+    display: inline-block;
+    margin: 10px 30px;
+}
+
+.selected {
+    border: 1px solid red;
+}

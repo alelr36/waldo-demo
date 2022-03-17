@@ -1,0 +1,7 @@
+.topping {
+    display: block;
+}
+
+.disabled {
+    color: gray;
+}
